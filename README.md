@@ -12,6 +12,6 @@
 <code><img src="https://miro.medium.com/v2/resize:fit:500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="30px"></code>
 <code><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="30px"></code>
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="30px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" width="32px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="23px"></code>
 <code><img src="https://logos-download.com/wp-content/uploads/2021/01/Expo_Logo.png" width="32px"></code>
