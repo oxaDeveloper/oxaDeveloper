@@ -14,3 +14,4 @@
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px"></code>
 <code><img src="https://www.pngkey.com/png/full/178-1787366_coming-soon-github-white-icon-png.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="23px"></code>
+<code><img src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" width="23px"></code>
