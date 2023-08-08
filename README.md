@@ -13,4 +13,4 @@
 <code><img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="30px"></code>
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px"></code>
 <code><img src="https://www.pngkey.com/png/full/178-1787366_coming-soon-github-white-icon-png.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="28px"></code>
